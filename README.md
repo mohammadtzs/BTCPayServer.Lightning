@@ -12,7 +12,7 @@ The most important packages are:
 * `BTCPayServer.Lightning.Common` contains the common abstractions shared between those implementation.
 * `BTCPayServer.Lightning.All` contains `LightningClientFactory` which can convert a connection string to an instance of `ILightningClient`.
 
-If your app depends on `ILightningClient` directly, you will be able to support those different lightning implementations out of the box.
+If your app depends on `ILightningClient` directly, you will be able to support those different lightning implementations out of the box
 
 Here is a description of all packages:
 
